@@ -1,0 +1,18 @@
+1;Martin Alex;15, rue de la République;94230;Cachan
+2;Moreau Sylvie;24, rue de Paris;94230;Cachan
+3;Simon Téo;19, rue des Tilleuls;94230;Cachan
+4;Michel Françoise;23, rue de la Ronde;94230;Cachan
+5;Lefebvre Jean;58, rue de Paris;94230;Cachan
+6;Roux Michel;49, rue des trois Communes;94230;Cachan
+7;David Jeanne;59, avenue Léon Blun;94230;Cachan
+8;Morel Stéphanie;18, avenue Léon Blun;94230;Cachan
+9;Fournier Patrick;43, rue de la Somme;94230;Cachan
+10;Fontaine Raymond;21, rue de la Marne;94230;Cachan 
+11;Rousseau Véronique;14, rue du Parc de Cachan;94230;Cachan
+12;Muller Jeanne;27, rue de la Marne;94230;Cachan
+13;Mercier Phillipe;39, rue de la Somme;94230;Cachan
+14;Blanc Laurent;33, rue du Parc de Cachan;94230;Cachan
+15;Perrin Nathalie;52, Résidence du Moulin;94230;Cachan
+16;Mathieu Marina;63, rue des Rosiers;94230;Cachan
+17;Masson Elizabeth;37, rue Jean Jaurès;94230;Cachan
+18;Meyer David;10, avenue Vatier;94230;Cachan

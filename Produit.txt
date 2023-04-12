@@ -1,0 +1,15 @@
+01;Tee Short Femme	       ;18.90;1
+02;12 Piles plus 100% AA       ;12.99;1
+03;Tropicana Pack Jus Reveil   ;12.16;2
+04;Nutella 1kg		       ;05.51;2
+05;BIO Raisin sec 500g	       ;05.00;2
+06;Comte Extra Entremont 350g  ;04.43;2
+07;Boite 50 masques 3 plis     ;04.85;1
+08;Beurre Paysan Breton 500g   ;04.69;2
+09;Rocamadour Fermier 2x35g    ;02.59;2
+10;Patin adhésif en feutre     ;02.50;1
+11;Delacre cookies choco 150g  ;02.49;2
+12;Oeuf Loué Label Rouge x6    ;02.36;2
+13;Panier Fuits rouges 8x130g  ;02.32;2
+14;Veloute nautre 8x125g       ;01.92;2
+15;Pims Framboise 150g         ;01.01;2
